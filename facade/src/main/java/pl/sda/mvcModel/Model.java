@@ -10,6 +10,7 @@ public class Model {
     public static List<Integer> values = new ArrayList<>();
 
     public static List<Integer> getValues() {
+
         return values;
     }
 
